@@ -1,6 +1,4 @@
-# Red-Black-Tree
-
-# Data Structures:
+# Data Structures: Red-Black-Tree
 
 A Java implementation of a Red-Black Tree with non-negative, distinct integer keys and values.
 
